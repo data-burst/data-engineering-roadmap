@@ -1,0 +1,213 @@
+Data Engineering:
+  Programming Language:
+    - Python
+    - Java
+    - Scala
+    - Go
+    - Rust
+  Operating System:
+    - Linux
+    - Windows
+    - Other UNIX distributions
+  General Software Engineering skills:
+    - Data Structures and Algorithms
+    - Basic Authentication and Authorization: |
+        OAuth
+        JWT
+        etc.
+    - Learn about APIs: |
+          GraphQL
+          REST
+          gRPC
+    - Caching
+  Web Frameworks and API Development:
+    Python:
+      - Flask
+      - Django
+      - FastAPI
+    Go:
+      - Fiber
+      - Gin
+    Java:
+      - Spring
+  Testing:
+    - Unit Testing
+    - Integration Testing
+    - Functional Testing
+    - Smoke Testing
+    - Load Testing
+    - AB Testing
+  Version Control System:
+    - Git
+  Version Control System Hosting:
+    - Gitlab
+    - Github
+    - Bitbucket
+  Distributed Systems Concepts:
+    - CAP
+    - PACELC
+    - Sharding
+    - Clock
+    - Replication
+    - ACID
+    - Normalization or Denormalization
+    - Batch and Stream processing
+    - Consistency vs Eventual consistency
+    - Transaction
+    - Indexing
+  SQL Fundamentals:
+    Basic SQL:
+      - CRUD
+      - JOIN
+      - GROUP BY
+    Advanced SQL:
+      - CTEs
+      - PARTITION OVER
+      - WINDOWING
+      - Materialized View
+  Databases:
+    Relational:
+      - PostgreSQL
+      - SQL Server
+      - MySQL
+    NoSQL:
+      Columnar:
+        - Clickhouse
+        - Apache Pinot
+        - Apache Druid
+        - Apache HBase
+        - Apache Cassandra
+        - Amazon Redshift
+      Document Based:
+        - MongoDB
+        - Elasticsearch
+        - Coachbase
+      Key-Value:
+        - Redis
+        - Amazon DynamoDB
+      Time-series:
+        - Timescaledb
+        - Prometheus
+        - InfluxDB
+      Vector:
+        - Milvus
+        - QDrant
+        - Pinecone
+      Graph:
+        - Neo4j
+        - Microsoft Azure Cosmos DB
+      NewSQL:
+        - Google Spanner
+        - CockroachDB
+  Data Modeling:
+    - Star Schema (Ralph Kimball)
+    - Snowflake
+    - Data Vault
+  Data Inventories Concept:
+    - Data Warehouse
+    - Data Lake
+    - Data Lakehouse
+    - Data Mart
+  Data Integration:
+    - ETL
+    - ELT
+    - Reverse ETL
+    - CDC
+  Storage:
+    Block Storage:
+      - Ceph
+      - HDFS
+      - EBS
+    Object Storage:
+      - Amazon S3
+      - Google Cloud Storage
+      - MinIO
+      - Ceph
+  File Formats and Serialization:
+    - CSV
+    - JSON
+    - Parquet
+    - Avro
+    - Protocol Buffers
+    - ORC
+    - XML
+  Query Engine:
+    - Apache Hive
+    - Presto
+    - Trino
+    - SparkSQL
+  Data Architecture:
+    - Kappa
+    - Lambda
+  Data Processing:
+    Batch:
+      - Apache Arrow
+      - Data Build Tool (dbt)
+    Hybrid:
+      - Apache Spark
+      - Apache Beam
+      - Apache Flink
+      - Apache Nifi
+    Stream:
+      - Apache Kafka
+      - Apache Storm
+      - Apache Samza
+      - Amazon Kinesis
+  Pipeline Orchestration:
+    - Apache Airflow
+    - Mage
+    - Argo
+  Messaging and Streaming Platform:
+    - Apache Kafka
+    - RabbitMQ
+    - Apache Pulsar
+  Data Governance:
+    - Data Availability
+    - Data Quality
+    - Data Security
+    - Data Lineage
+    - Data Usability
+  Data Visualization:
+    - Apache Superset
+    - Tableau
+    - Microsoft PowerBI
+    - Metabase
+  Containerization:
+    - LXC
+    - Docker
+    - Containerd
+    - Podman
+  Container Orchestration:
+    - Kubernetes
+    - Docker Swarm
+    - Apache Mesos
+  CICD:
+    - Gitlab CI
+    - Github Actions
+    - Jenkins
+    - CircleCI
+  Infrastructure as Code:
+    Configuration Management:
+      - Ansible
+      - Chef
+      - Puppet
+    Infrastructure Provisioning:
+      - Hashicorp Terraform
+      - Pulumi
+  Observability:
+    Logging:
+      - ELK
+      - EFK
+      - Loki
+      - Sentry
+      - Graylog
+    Monitoring:
+      - Prometheus
+      - Grafana
+      - Alertmanager
+      - Datadog
+      - Statsd
+      - Zabbix
+    Tracing:
+      - Jaeger
+      - Splunk
