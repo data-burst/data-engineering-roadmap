@@ -1,5 +1,19 @@
 # Data Engineering Roadmap
 
+We are a group of dedicated data engineers at DataBurst, are excited to share a comprehensive roadmap tailored for data engineering professionals at all levels—from those just starting out to the most seasoned experts.
+
+Whether you're a junior engineer seeking direction or a senior professional aiming to stay ahead of the curve, this roadmap offers valuable guidance and industry best practices.
+
+<p align=center>
+    <img src="statics/logo.jpg" width="300" alt="airflow git sync"/>
+</p>
+
+## Table of Contents
+
+- [Data Engineering Roadmap](#data-engineering-roadmap)
+  - [Table of Contents](#table-of-contents)
+  - [Contributors (Alphabetical Order)](#contributors-alphabetical-order)
+
 
 ![data engineer roadmap](./statics/roadmap.png)
 
