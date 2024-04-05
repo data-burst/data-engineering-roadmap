@@ -23,8 +23,11 @@ It's not an end; this roadmap is a living document. If you have suggestions, wan
 
 - [Data Engineering Roadmap](#data-engineering-roadmap)
   - [Table of Contents](#table-of-contents)
+  - [Data Engineering Roadmap](#data-engineering-roadmap-1)
   - [Contributors (Alphabetical Order)](#contributors-alphabetical-order)
 
+
+## Data Engineering Roadmap
 
 ![data engineer roadmap](./statics/roadmap.png)
 
