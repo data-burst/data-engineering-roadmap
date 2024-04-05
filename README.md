@@ -1,6 +1,8 @@
 # Data Engineering Roadmap
 
 
+![data engineer roadmap](./statics/roadmap.png)
+
 
 ## Contributors (Alphabetical Order)
 
