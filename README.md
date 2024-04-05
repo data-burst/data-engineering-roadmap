@@ -4,6 +4,8 @@ We are a group of dedicated data engineers at DataBurst, are excited to share a 
 
 Whether you're a junior engineer seeking direction or a senior professional aiming to stay ahead of the curve, this roadmap offers valuable guidance and industry best practices.
 
+It's not an end; this roadmap is a living document. If you have suggestions, want to make changes, or add new insights, we welcome your contributions. Join our collaborative effort to refine and enhance this roadmap for the data engineering community. Feel free to contribute to this project by joining us on [Discord](https://discord.gg/DWVD3gVv)
+
 <p align=center>
     <img src="statics/logo.jpg" width="300" alt="airflow git sync"/>
 </p>
