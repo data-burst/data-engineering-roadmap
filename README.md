@@ -53,7 +53,7 @@ It's not an end; this roadmap is a living document. If you have suggestions, wan
 
 We welcome contributions to our data engineering roadmap! If you'd like to get involved, here's how you can help:
 
-- Fork the data-burst/data-engineering-roadmap repository
+- Fork the [data-burst/data-engineering-roadmap](https://github.com/data-burst/data-engineering-roadmap) repository
 - Modify the `roadmap.yaml` file based on your suggestions and ideas for improving the roadmap
 - Once you've made your changes, commit them and submit a pull request
 
