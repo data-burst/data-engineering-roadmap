@@ -48,6 +48,7 @@ It's not an end; this roadmap is a living document. If you have suggestions, wan
 - [Mostafa Ghadimi](https://www.linkedin.com/in/mostafaghadimi/)
 - [Niyusha Baghayi](https://www.linkedin.com/in/niyusha-baghayi/)
 - [Reza Amini Majd](https://www.linkedin.com/in/rezaaminimajd/)
+- [Amirreza Aflakparast](https://www.linkedin.com/in/amirreza-aflakparast/)
 
 ## Contributing
 
