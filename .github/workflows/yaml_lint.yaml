@@ -1,0 +1,32 @@
+name: YAML Format Check
+
+on:
+  push:
+    branches:
+      - '**'
+    paths:
+      - 'roadmap.yaml'
+  pull_request:
+    branches:
+      - '**'
+    paths:
+      - 'roadmap.yaml'
+
+jobs:
+  yaml-lint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: '3.x'
+
+      - name: Install yamllint
+        run: pip install yamllint
+
+      - name: Run yamllint
+        run: yamllint roadmap.yaml
+
