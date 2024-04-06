@@ -46,6 +46,7 @@ It's not an end; this roadmap is a living document. If you have suggestions, wan
 - [Alireza Shateri](https://www.linkedin.com/in/alireza-shateri-a91093176/)
 - [Amirreza Aflakparast](https://www.linkedin.com/in/amirreza-aflakparast/)
 - [Dorsa Hasanlee](https://www.linkedin.com/in/dorsa-hasanlee/)
+- [Mahdi Alizade](https://www.linkedin.com/in/mahdi-alizade-8680a0204/)
 - [Mostafa Ghadimi](https://www.linkedin.com/in/mostafaghadimi/)
 - [Niyusha Baghayi](https://www.linkedin.com/in/niyusha-baghayi/)
 - [Reza Amini Majd](https://www.linkedin.com/in/rezaaminimajd/)
