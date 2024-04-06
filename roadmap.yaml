@@ -81,7 +81,7 @@ Data Engineering:
       Document Based:
         - MongoDB
         - Elasticsearch
-        - Coachbase
+        - Couchbase
       Key-Value:
         - Redis
         - Amazon DynamoDB
