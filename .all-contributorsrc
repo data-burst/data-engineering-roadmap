@@ -87,5 +87,6 @@
   "contributorsPerLine": 7,
   "linkToUsage": false,
   "contributorsSortAlphabetically": true,
-  "contributorTemplate": "<a href=\"<%= contributor.profile %>\"><img src=\"<%= contributor.avatar_url %>\" style=\"border-radius:50%\" width=\"<%= options.imageSize %>px;\" alt=\"\"/><br /><sub><b><%= contributor.name %></b></sub></a>"
+  "contributorTemplate": "<a href=\"<%= contributor.profile %>\"><img src=\"<%= contributor.avatar_url %>\" style=\"border-radius:50%\" width=\"<%= options.imageSize %>px;\" alt=\"\"/><br /><sub><b><%= contributor.name %></b></sub></a>",
+  "badgeTemplate": ""
 }
