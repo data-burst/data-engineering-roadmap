@@ -32,6 +32,7 @@ It's not an end; this roadmap is a living document. If you have suggestions, wan
 - [DataBurst](#databurst)
   - [Table of Contents](#table-of-contents)
   - [Data Engineering Roadmap](#data-engineering-roadmap)
+  - [DataBurst Team](#databurstteam)
   - [Contributors (Alphabetical Order)](#contributors-alphabetical-order)
   - [Contributing](#contributing)
   - [License](#license)
@@ -41,7 +42,23 @@ It's not an end; this roadmap is a living document. If you have suggestions, wan
 ![data engineer roadmap](./statics/roadmap.png)
 
 
-## Contributors (Alphabetical Order)
+## DataBurst Team (Alphabetical Order)
+- [Alireza Shateri](https://www.linkedin.com/in/alireza-shateri-a91093176/)
+- [Dorsa Hasanlee](https://www.linkedin.com/in/dorsa-hasanlee/)
+- [Mostafa Ghadimi](https://www.linkedin.com/in/mostafaghadimi/)
+- [Niyusha Baghayi](https://www.linkedin.com/in/niyusha-baghayi/)
+- [Reza Amini Majd](https://www.linkedin.com/in/rezaaminimajd/)
+
+## Contributors
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 - [Alireza Shateri](https://www.linkedin.com/in/alireza-shateri-a91093176/)
 - [Amirreza Aflakparast](https://www.linkedin.com/in/amirreza-aflakparast/)
@@ -50,7 +67,6 @@ It's not an end; this roadmap is a living document. If you have suggestions, wan
 - [Mostafa Ghadimi](https://www.linkedin.com/in/mostafaghadimi/)
 - [Niyusha Baghayi](https://www.linkedin.com/in/niyusha-baghayi/)
 - [Reza Amini Majd](https://www.linkedin.com/in/rezaaminimajd/)
-
 
 ## Contributing
 

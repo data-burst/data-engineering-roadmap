@@ -1,0 +1,16 @@
+{
+  "projectName": "data-engineering-roadmap",
+  "projectOwner": "data-burst",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": ["README.md"],
+  "imageSize": 100,
+  "commit": false,
+  "contributorsPerLine": 7,
+  "contributorsSortAlphabetically": true,
+  "contributorTemplate": "<a href=\"<%= contributor.profile %>\"><img src=\"<%= contributor.avatar_url %>\" width=\"<%= options.imageSize %>px;\" alt=\"\"/><br /><sub><b><%= contributor.name %></b></sub></a>",
+  "wrapperTemplate": "\n<table>\n  <tbody><%= bodyContent %>  </tbody>\n<%= tableFooterContent %></table>\n\n",
+  "linkToUsage": true,
+  "skipCi": true,
+  "contributors": ["mostafaghadimi", "niyushabaghayi", "rezaaminimajd", "ShAlireza", "AmirAflak", "alizademhdi", "iamdorsa"]
+}
