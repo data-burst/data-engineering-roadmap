@@ -3,7 +3,7 @@ name: YAML Format Check
 on:
   push:
     branches:
-      - '**'
+      - main
     paths:
       - 'roadmap.yaml'
   pull_request:
