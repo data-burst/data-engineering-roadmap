@@ -1,4 +1,7 @@
 # DataBurst
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 
 <p align=center>
@@ -54,19 +57,31 @@ It's not an end; this roadmap is a living document. If you have suggestions, wan
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/ShAlireza"><img src="https://avatars.githubusercontent.com/u/45388177?v=4?s=100" width="100px;" alt="Alireza Shateri"/><br /><sub><b>Alireza Shateri</b></sub></a><br /><a href="#infra-ShAlireza" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#design-ShAlireza" title="Design">🎨</a> <a href="https://github.com/data-burst/data-engineering-roadmap/commits?author=ShAlireza" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/mostafaghadimi"><img src="https://avatars.githubusercontent.com/u/24542893?v=4?s=100" width="100px;" alt="Mostafa Ghadimi"/><br /><sub><b>Mostafa Ghadimi</b></sub></a><br /><a href="https://github.com/data-burst/data-engineering-roadmap/commits?author=mostafaghadimi" title="Code">💻</a> <a href="#design-mostafaghadimi" title="Design">🎨</a> <a href="#infra-mostafaghadimi" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/niyushabaghayi"><img src="https://avatars.githubusercontent.com/u/16796804?v=4?s=100" width="100px;" alt="Niyusha Baghayi"/><br /><sub><b>Niyusha Baghayi</b></sub></a><br /><a href="https://github.com/data-burst/data-engineering-roadmap/commits?author=niyushabaghayi" title="Code">💻</a> <a href="#design-niyushabaghayi" title="Design">🎨</a> <a href="#infra-niyushabaghayi" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/rezaaminimajd"><img src="https://avatars.githubusercontent.com/u/45604304?v=4?s=100" width="100px;" alt="Rez"/><br /><sub><b>Rez</b></sub></a><br /><a href="https://github.com/data-burst/data-engineering-roadmap/commits?author=rezaaminimajd" title="Code">💻</a> <a href="#design-rezaaminimajd" title="Design">🎨</a> <a href="#infra-rezaaminimajd" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/dorsa-hasanlee/"><img src="https://avatars.githubusercontent.com/u/49491638?v=4?s=100" width="100px;" alt="Dorsa Hasanlee"/><br /><sub><b>Dorsa Hasanlee</b></sub></a><br /><a href="https://github.com/data-burst/data-engineering-roadmap/commits?author=iamdorsa" title="Code">💻</a> <a href="#design-iamdorsa" title="Design">🎨</a> <a href="#infra-iamdorsa" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/alizademhdi"><img src="https://avatars.githubusercontent.com/u/79321261?v=4?s=100" width="100px;" alt="mahdi alizadeh"/><br /><sub><b>mahdi alizadeh</b></sub></a><br /><a href="https://github.com/data-burst/data-engineering-roadmap/commits?author=alizademhdi" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/AmirAflak"><img src="https://avatars.githubusercontent.com/u/84932095?v=4?s=100" width="100px;" alt="Amirreza Aflakparast"/><br /><sub><b>Amirreza Aflakparast</b></sub></a><br /><a href="https://github.com/data-burst/data-engineering-roadmap/commits?author=AmirAflak" title="Code">💻</a></td>
+    </tr>
+  </tbody>
+</table>
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
 
-- [Alireza Shateri](https://www.linkedin.com/in/alireza-shateri-a91093176/)
-- [Amirreza Aflakparast](https://www.linkedin.com/in/amirreza-aflakparast/)
-- [Dorsa Hasanlee](https://www.linkedin.com/in/dorsa-hasanlee/)
-- [Mahdi Alizade](https://www.linkedin.com/in/mahdi-alizade-8680a0204/)
-- [Mostafa Ghadimi](https://www.linkedin.com/in/mostafaghadimi/)
-- [Niyusha Baghayi](https://www.linkedin.com/in/niyusha-baghayi/)
-- [Reza Amini Majd](https://www.linkedin.com/in/rezaaminimajd/)
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ## Contributing
 
