@@ -9,6 +9,15 @@ Data Engineering:
     - Linux
     - Windows
     - Other UNIX distributions
+  Networking:
+    Protocols:
+      - HTTP/HTTPS
+      - TCP/IP
+      - SSH
+      - DNS
+    Concepts:    
+      - VPN
+      - Firewalls
   General Software Engineering skills:
     - Data Structures and Algorithms
     - Basic Authentication and Authorization: |
