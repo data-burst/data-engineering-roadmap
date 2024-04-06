@@ -3,14 +3,89 @@
   "projectOwner": "data-burst",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "files": ["README.md"],
+  "files": [
+    "README.md"
+  ],
   "imageSize": 100,
   "commit": false,
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "ShAlireza",
+      "name": "Alireza Shateri",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45388177?v=4",
+      "profile": "https://github.com/ShAlireza",
+      "contributions": [
+        "infra",
+        "design",
+        "code"
+      ]
+    },
+    {
+      "login": "mostafaghadimi",
+      "name": "Mostafa Ghadimi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/24542893?v=4",
+      "profile": "https://github.com/mostafaghadimi",
+      "contributions": [
+        "code",
+        "design",
+        "infra"
+      ]
+    },
+    {
+      "login": "niyushabaghayi",
+      "name": "Niyusha Baghayi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16796804?v=4",
+      "profile": "https://github.com/niyushabaghayi",
+      "contributions": [
+        "code",
+        "design",
+        "infra"
+      ]
+    },
+    {
+      "login": "rezaaminimajd",
+      "name": "Rez",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45604304?v=4",
+      "profile": "https://github.com/rezaaminimajd",
+      "contributions": [
+        "code",
+        "design",
+        "infra"
+      ]
+    },
+    {
+      "login": "iamdorsa",
+      "name": "Dorsa Hasanlee",
+      "avatar_url": "https://avatars.githubusercontent.com/u/49491638?v=4",
+      "profile": "https://www.linkedin.com/in/dorsa-hasanlee/",
+      "contributions": [
+        "code",
+        "design",
+        "infra"
+      ]
+    },
+    {
+      "login": "alizademhdi",
+      "name": "mahdi alizadeh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79321261?v=4",
+      "profile": "https://github.com/alizademhdi",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "AmirAflak",
+      "name": "Amirreza Aflakparast",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84932095?v=4",
+      "profile": "https://github.com/AmirAflak",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
   "contributorsPerLine": 7,
+  "linkToUsage": false,
   "contributorsSortAlphabetically": true,
-  "contributorTemplate": "<a href=\"<%= contributor.profile %>\"><img src=\"<%= contributor.avatar_url %>\" width=\"<%= options.imageSize %>px;\" alt=\"\"/><br /><sub><b><%= contributor.name %></b></sub></a>",
-  "wrapperTemplate": "\n<table>\n  <tbody><%= bodyContent %>  </tbody>\n<%= tableFooterContent %></table>\n\n",
-  "linkToUsage": true,
-  "skipCi": true,
-  "contributors": ["mostafaghadimi", "niyushabaghayi", "rezaaminimajd", "ShAlireza", "AmirAflak", "alizademhdi", "iamdorsa"]
+  "contributorTemplate": "<a href=\"<%= contributor.profile %>\"><img src=\"<%= contributor.avatar_url %>\" style=\"border-radius:50%\" width=\"<%= options.imageSize %>px;\" alt=\"\"/><br /><sub><b><%= contributor.name %></b></sub></a>"
 }

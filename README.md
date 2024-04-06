@@ -1,4 +1,7 @@
 # DataBurst
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 
 <p align=center>
@@ -54,19 +57,31 @@ It's not an end; this roadmap is a living document. If you have suggestions, wan
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/ShAlireza"><img src="https://avatars.githubusercontent.com/u/45388177?v=4" style="border-radius:50%" width="100px;" alt=""/><br /><sub><b>Alireza Shateri</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/AmirAflak"><img src="https://avatars.githubusercontent.com/u/84932095?v=4" style="border-radius:50%" width="100px;" alt=""/><br /><sub><b>Amirreza Aflakparast</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/dorsa-hasanlee/"><img src="https://avatars.githubusercontent.com/u/49491638?v=4" style="border-radius:50%" width="100px;" alt=""/><br /><sub><b>Dorsa Hasanlee</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/mostafaghadimi"><img src="https://avatars.githubusercontent.com/u/24542893?v=4" style="border-radius:50%" width="100px;" alt=""/><br /><sub><b>Mostafa Ghadimi</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/niyushabaghayi"><img src="https://avatars.githubusercontent.com/u/16796804?v=4" style="border-radius:50%" width="100px;" alt=""/><br /><sub><b>Niyusha Baghayi</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/rezaaminimajd"><img src="https://avatars.githubusercontent.com/u/45604304?v=4" style="border-radius:50%" width="100px;" alt=""/><br /><sub><b>Rez</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/alizademhdi"><img src="https://avatars.githubusercontent.com/u/79321261?v=4" style="border-radius:50%" width="100px;" alt=""/><br /><sub><b>mahdi alizadeh</b></sub></a></td>
+    </tr>
+  </tbody>
+</table>
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
 
-- [Alireza Shateri](https://www.linkedin.com/in/alireza-shateri-a91093176/)
-- [Amirreza Aflakparast](https://www.linkedin.com/in/amirreza-aflakparast/)
-- [Dorsa Hasanlee](https://www.linkedin.com/in/dorsa-hasanlee/)
-- [Mahdi Alizade](https://www.linkedin.com/in/mahdi-alizade-8680a0204/)
-- [Mostafa Ghadimi](https://www.linkedin.com/in/mostafaghadimi/)
-- [Niyusha Baghayi](https://www.linkedin.com/in/niyusha-baghayi/)
-- [Reza Amini Majd](https://www.linkedin.com/in/rezaaminimajd/)
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ## Contributing
 
