@@ -79,6 +79,8 @@ It's not an end; this roadmap is a living document. If you have suggestions, wan
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
+And more! We are expecting more passionate contributors and data lovers to join us...
+
 ## Contributing
 
 We welcome contributions to our data engineering roadmap! If you'd like to get involved, here's how you can help:
