@@ -13,6 +13,7 @@ Data Engineering:
     Protocols:
       - HTTP/HTTPS
       - TCP/IP
+      - UDP
       - SSH
       - DNS
     Concepts:    
@@ -28,6 +29,10 @@ Data Engineering:
           GraphQL
           REST
           gRPC
+    - Design Patterns: |
+      Behavioral
+      Creational
+      Structural 
     - Caching
   Web Frameworks and API Development:
     Python:
