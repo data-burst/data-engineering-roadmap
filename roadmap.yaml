@@ -58,6 +58,15 @@ Data Engineering:
   Version Control System:
     - Git
   Version Control System Hosting:
+    - Gitlab
+    - Github
+    - Bitbucket
+  Distributed Systems Concepts:
+    - CAP
+    - PACELC
+    - Sharding
+    - Clock
+    - Replication
     - ACID
     - Normalization or Denormalization
     - Batch and Stream processing
@@ -122,7 +131,8 @@ Data Engineering:
     - ETL
     - ELT
     - Reverse ETL
-    - CDC
+    - CDC:
+        - Debezium
   Storage:
     Block Storage:
       - Ceph
@@ -165,17 +175,28 @@ Data Engineering:
       - Amazon Kinesis
   Pipeline Orchestration:
     - Apache Airflow
+    - Prefect
+    - Dagster
     - Mage
     - Argo
   Messaging and Streaming Platform:
-    - Apache Kafka
+    - Apache Kafka:
+        - Kafka Connect
+        - Schema Registry
+        - KSQL
+        - Kafka Rest
+    - NATS
     - RabbitMQ
     - Apache Pulsar
   Data Governance:
     - Data Availability
-    - Data Quality
+    - Data Quality:
+        - Great Expectations
+        - Soda Core
     - Data Security
-    - Data Lineage
+    - Data Lineage:
+        - Open MetaData
+        - DataHub
     - Data Usability
   Data Visualization:
     - Apache Superset
