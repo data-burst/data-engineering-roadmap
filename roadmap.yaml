@@ -28,11 +28,7 @@ Data Engineering:
     - Learn about APIs: |
           GraphQL
           REST
-          gRPC
-    - Design Patterns: |
-      Behavioral
-      Creational
-      Structural 
+          gRPC 
     - Caching
   Web Frameworks and API Development:
     Python:
