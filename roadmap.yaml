@@ -31,14 +31,23 @@ Data Engineering:
     - Caching
   Web Frameworks and API Development:
     Python:
-      - Flask
-      - Django
-      - FastAPI
+      Web Development and API:
+        - Flask
+        - Django
+        - FastAPI
+      ETL:
+        - Petl
+        - Pandas
+        - PySpark
+        - Requests
+        - Beautiful Soup
+    Rust:
+      - Rocket
     Go:
       - Fiber
       - Gin
     Java:
-      - Spring
+      - SpringBoot
   Testing:
     - Unit Testing
     - Integration Testing
@@ -49,15 +58,6 @@ Data Engineering:
   Version Control System:
     - Git
   Version Control System Hosting:
-    - Gitlab
-    - Github
-    - Bitbucket
-  Distributed Systems Concepts:
-    - CAP
-    - PACELC
-    - Sharding
-    - Clock
-    - Replication
     - ACID
     - Normalization or Denormalization
     - Batch and Stream processing
