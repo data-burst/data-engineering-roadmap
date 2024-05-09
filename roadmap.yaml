@@ -193,7 +193,8 @@ Data Engineering:
     - Data Quality:
         - Great Expectations
         - Soda Core
-    - Data Security
+    - Data Security:
+        Hashicorp Vault
     - Data Lineage:
         - Open MetaData
         - DataHub
@@ -228,6 +229,7 @@ Data Engineering:
   Observability:
     Logging:
       - ELK
+      - Splunk
       - EFK
       - Loki
       - Sentry
