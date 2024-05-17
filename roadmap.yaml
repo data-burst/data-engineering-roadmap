@@ -13,6 +13,7 @@ Data Engineering:
     Protocols:
       - HTTP/HTTPS
       - TCP/IP
+      - UDP
       - SSH
       - DNS
     Concepts:    
@@ -27,7 +28,7 @@ Data Engineering:
     - Learn about APIs: |
           GraphQL
           REST
-          gRPC
+          gRPC 
     - Caching
   Web Frameworks and API Development:
     Python:
