@@ -47,7 +47,7 @@ Data Engineering:
       - Fiber
       - Gin
     Java:
-      - SpringBoot
+      - Spring Boot
   Testing:
     - Unit Testing
     - Integration Testing
