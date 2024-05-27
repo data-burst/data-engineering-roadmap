@@ -34,10 +34,6 @@ Data Engineering:
       - Flask
       - Django
       - FastAPI
-      - ETL:
-        - Petl
-        - Pandas
-        - PySpark
     Rust:
       - Rocket
     Go:
