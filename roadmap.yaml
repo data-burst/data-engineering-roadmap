@@ -191,7 +191,7 @@ Data Engineering:
         - Great Expectations
         - Soda Core
     - Data Security:
-        Hashicorp Vault
+        - Hashicorp Vault
     - Data Lineage:
         - Open MetaData
         - DataHub
