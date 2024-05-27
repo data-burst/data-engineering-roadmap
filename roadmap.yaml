@@ -29,8 +29,7 @@ Data Engineering:
           REST
           gRPC
     - Caching
-  Web Frameworks and API Development:
-    Python:
+  Python:
       Web Development and API:
         - Flask
         - Django
@@ -39,14 +38,12 @@ Data Engineering:
         - Petl
         - Pandas
         - PySpark
-        - Requests
-        - Beautiful Soup
-    Rust:
-      - Rocket
-    Go:
-      - Fiber
-      - Gin
-    Java:
+  Rust:
+    - Rocket
+  Go:
+    - Fiber
+    - Gin
+  Java:
       - SpringBoot
   Testing:
     - Unit Testing
