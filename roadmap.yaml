@@ -178,8 +178,6 @@ Data Engineering:
     - NATS
     - RabbitMQ
     - Apache Pulsar
-  Schema Control:
-    - Schema Registry
   Data Governance:
     - Data Availability
     - Data Quality:
