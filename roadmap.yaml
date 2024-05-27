@@ -66,7 +66,9 @@ Data Engineering:
     - Replication
     - ACID
     - Normalization or Denormalization
-    - Batch and Stream processing
+    - Batch and Stream processing:
+        - KSQL
+        - Kafka Stream
     - Consistency vs Eventual consistency
     - Transaction
     - Indexing
@@ -177,11 +179,11 @@ Data Engineering:
     - Mage
     - Argo
   Messaging and Streaming Platform:
-    - Apache Kafka:
+    - Apache Kafka
+    - Connector:
         - Kafka Connect
-        - Schema Registry
-        - KSQL
-        - Kafka Rest
+    - Schema Control:
+      - Schema Registry
     - NATS
     - RabbitMQ
     - Apache Pulsar
