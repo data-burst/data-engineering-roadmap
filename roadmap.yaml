@@ -173,8 +173,6 @@ Data Engineering:
     - Argo
   Messaging and Streaming Platform:
     - Apache Kafka
-    - Connector:
-        - Kafka Connect
     - NATS
     - RabbitMQ
     - Apache Pulsar
