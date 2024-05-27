@@ -62,9 +62,6 @@ Data Engineering:
     - Replication
     - ACID
     - Normalization or Denormalization
-    - Batch and Stream processing:
-        - KSQL
-        - Kafka Stream
     - Consistency vs Eventual consistency
     - Transaction
     - Indexing
