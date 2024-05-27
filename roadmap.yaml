@@ -31,16 +31,13 @@ Data Engineering:
     - Caching
   Web Frameworks and API Development:
     Python:
-      Web Development and API:
-        - Flask
-        - Django
-        - FastAPI
-      ETL:
+      - Flask
+      - Django
+      - FastAPI
+      - ETL:
         - Petl
         - Pandas
         - PySpark
-        - Requests
-        - Beautiful Soup
     Rust:
       - Rocket
     Go:
