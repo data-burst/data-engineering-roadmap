@@ -35,11 +35,13 @@ Data Engineering:
       - Flask
       - Django
       - FastAPI
+    Rust:
+      - Rocket
     Go:
       - Fiber
       - Gin
     Java:
-      - Spring
+      - SpringBoot
   Testing:
     - Unit Testing
     - Integration Testing
@@ -61,7 +63,6 @@ Data Engineering:
     - Replication
     - ACID
     - Normalization or Denormalization
-    - Batch and Stream processing
     - Consistency vs Eventual consistency
     - Transaction
     - Indexing
@@ -123,7 +124,8 @@ Data Engineering:
     - ETL
     - ELT
     - Reverse ETL
-    - CDC
+    - CDC:
+        - Debezium
   Storage:
     Block Storage:
       - Ceph
@@ -166,17 +168,25 @@ Data Engineering:
       - Amazon Kinesis
   Pipeline Orchestration:
     - Apache Airflow
+    - Prefect
+    - Dagster
     - Mage
     - Argo
   Messaging and Streaming Platform:
     - Apache Kafka
+    - NATS
     - RabbitMQ
     - Apache Pulsar
   Data Governance:
     - Data Availability
-    - Data Quality
-    - Data Security
-    - Data Lineage
+    - Data Quality:
+        - Great Expectations
+        - Soda Core
+    - Data Security:
+        - Hashicorp Vault
+    - Data Lineage:
+        - Open MetaData
+        - DataHub
     - Data Usability
   Data Visualization:
     - Apache Superset
@@ -208,6 +218,7 @@ Data Engineering:
   Observability:
     Logging:
       - ELK
+      - Splunk
       - EFK
       - Loki
       - Sentry
