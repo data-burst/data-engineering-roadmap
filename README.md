@@ -10,7 +10,7 @@
 </p>
 
 
-<img  align="left" src="statics/logo.jpg" width="250" alt="data engineering roadmap"/>
+<img  align="left" src="https://raw.githubusercontent.com/data-burst/databurst-public-assets/main/databurst/logo.jpg" width="250" alt="data engineering roadmap"/>
 
 We are a group of dedicated data engineers at DataBurst, are excited to share a comprehensive roadmap tailored for data engineering professionals at all levels—from those just starting out to the most seasoned experts.
 
