@@ -38,7 +38,7 @@ It's not an end; this roadmap is a living document. If you have suggestions, wan
 
 ## Data Engineering Roadmap
 
-![data engineer roadmap](./statics/roadmap.png)
+![data engineer roadmap](https://raw.githubusercontent.com/data-burst/data-engineering-public-assets/main/data-engineering-roadmap/roadmap.png)
 
 
 ## DataBurst Team (Alphabetical Order)
