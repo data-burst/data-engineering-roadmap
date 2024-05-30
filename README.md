@@ -24,15 +24,14 @@ It's not an end; this roadmap is a living document. If you have suggestions, wan
 
 **Discord**: [DataBurst Discord](https://discord.gg/DWVD3gVv)
 
-
-
 ## Table of Contents
 
 - [DataBurst](#databurst)
   - [Table of Contents](#table-of-contents)
   - [Data Engineering Roadmap](#data-engineering-roadmap)
-  - [DataBurst Team](#databurstteam)
-  - [Contributors (Alphabetical Order)](#contributors-alphabetical-order)
+  - [Roadmap Guide](#roadmap-guide)
+  - [DataBurst Team (Alphabetical Order)](#databurst-team-alphabetical-order)
+  - [Contributors](#contributors)
   - [Contributing](#contributing)
   - [License](#license)
 
@@ -40,8 +39,12 @@ It's not an end; this roadmap is a living document. If you have suggestions, wan
 
 ![data engineer roadmap](https://raw.githubusercontent.com/data-burst/data-engineering-public-assets/main/data-engineering-roadmap/roadmap.png)
 
+## Roadmap Guide
+
+For a detailed guide on how to navigate and utilize the Data Engineering Roadmap, please refer to our [Roadmap Guide](ROADMAP_GUIDE.md).
 
 ## DataBurst Team (Alphabetical Order)
+
 - [Alireza Shateri](https://www.linkedin.com/in/alireza-shateri-a91093176/)
 - [Dorsa Hasanlee](https://www.linkedin.com/in/dorsa-hasanlee/)
 - [Mostafa Ghadimi](https://www.linkedin.com/in/mostafaghadimi/)
