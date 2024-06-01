@@ -30,7 +30,7 @@ To help you navigate the roadmap more effectively, we have used a color-coded le
 - **Gray**: Order in roadmap not strict (Learn anytime)
 - **Blue**: Cloud
 
-These colors reflect the personal recommendations and common tools suggested by the contributors of the roadmap, all of whom have over five years of experience in the field. It is crucial to note that these recommendations are not mandatory. They are meant to provide guidance based on expert opinions and industry practices.
+These colors reflect the personal recommendations and common tools suggested by the contributors of the roadmap, all of whom have over five years of experience in the field. It is crucial to note that these recommendations are not mandatory. The recommended tools not only rely on expert opinions and industry practices but also enjoy widespread community acceptance. They are widely used by the data engineering community and have excellent community support.
 
 ## Selective Learning
 
