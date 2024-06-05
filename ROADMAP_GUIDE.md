@@ -10,7 +10,6 @@ We, as [DataBurst](https://databurst.tech) team, are pleased to present to you t
   - [Focus on Concepts](#focus-on-concepts)
   - [Understanding the Color Codes](#understanding-the-color-codes)
   - [Selective Learning](#selective-learning)
-  - [SQL vs NoSQL](#sql-vs-nosql)
   - [Your Professional Growth](#your-professional-growth)
 
 ## How to Use This Roadmap
@@ -35,10 +34,6 @@ These colors reflect the personal recommendations and common tools suggested by 
 ## Selective Learning
 
 The roadmap is designed to be a starting point, offering insights that will help you make informed decisions. The listed technologies are diverse and extensive, making it impractical to delve deeply into each one. Therefore, we emphasize that understanding the core concepts is far more crucial than getting bogged down by the plethora of tools available. Select the tools and technologies that best align with your goals and organizational needs.
-
-## SQL vs NoSQL
-
-In the world of data engineering, it's important to understand that there is no inherent superiority between SQL and NoSQL databases. Each has its own strengths and is designed to solve specific types of problems. SQL databases are typically used for transactions and data that requires a structured schema, while NoSQL databases excel in handling large volumes of diverse, rapidly changing data. Rather than viewing these two types of databases as competitors, it's more accurate and beneficial to see them as complementary to each other. In many use cases, SQL and NoSQL databases can be used together in a polyglot persistence architecture to leverage the strengths of both. The choice between SQL and NoSQL should be driven by the specific requirements of your project, not by a perceived superiority of one over the other.
 
 ## Your Professional Growth
 
