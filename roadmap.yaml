@@ -115,11 +115,13 @@ Data Engineering:
     - Snowflake
     - Data Vault
   Data Inventories Concept:
-    - Data Warehouse
+    - Relational Data Warehouse
     - Data Lake
+    - Modern Data Warehouse
+    - Data Fabric
     - Data Lakehouse
-    - Data Mart
     - Data Mesh
+    - Data Mart
   Data Integration:
     - ETL
     - ELT
