@@ -114,12 +114,14 @@ Data Engineering:
     - Star Schema (Ralph Kimball)
     - Snowflake
     - Data Vault
-  Data Inventories Concept:
-    - Data Warehouse
+  Data Management Architecture:
+    - Relational Data Warehouse
     - Data Lake
+    - Modern Data Warehouse
+    - Data Fabric
     - Data Lakehouse
-    - Data Mart
     - Data Mesh
+    - Data Mart
   Data Integration:
     - ETL
     - ELT
