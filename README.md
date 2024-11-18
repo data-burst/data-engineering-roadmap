@@ -101,3 +101,24 @@ For more details on our contribution guidelines, please check out the [CONTIRIBU
 ## License
 
 This repository is licensed under the MIT License, which is a permissive open-source license that allows for reuse and modification of the code with few restrictions. You can find the full text of the license in [this](./LICENSE) file.
+
+## Star-history
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="
+      https://api.star-history.com/svg?repos=data-burst/data-engineering-roadmap&type=Date&theme=dark
+    "
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="
+      https://api.star-history.com/svg?repos=data-burst/data-engineering-roadmap&type=Date
+    "
+  />
+  <img
+    alt="Star History Chart"
+    src="https://api.star-history.com/svg?repos=data-burst/data-engineering-roadmap&type=Date"
+  />
+</picture>
