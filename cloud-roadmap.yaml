@@ -1,0 +1,177 @@
+Cloud Data Engineering:
+  Programming Language:
+    - Python
+    - Java
+    - Scala
+    - Go
+    - Rust
+  Operating System:
+    - Linux
+    - Windows
+    - Other UNIX distributions
+  Networking:
+    Protocols:
+      - HTTP/HTTPS
+      - TCP/IP
+      - UDP
+      - SSH
+      - DNS
+    Concepts:    
+      - VPN
+      - Firewalls
+  General Software Engineering skills:
+    - Data Structures and Algorithms
+    - Basic Authentication and Authorization: |
+        OAuth
+        JWT
+        etc.
+    - Learn about APIs: |
+          GraphQL
+          REST
+          gRPC 
+    - Caching
+  Web Frameworks and API Development:
+    Python:
+      - Flask
+      - Django
+      - FastAPI
+    Rust:
+      - Rocket
+    Go:
+      - Fiber
+      - Gin
+    Java:
+      - SpringBoot
+  Testing:
+    - Unit Testing
+    - Integration Testing
+    - Functional Testing
+    - Smoke Testing
+    - Load Testing
+    - A/B Testing
+  Version Control System:
+    - Git
+  Version Control System Hosting:
+    - Gitlab
+    - Github
+    - Bitbucket
+  Distributed Systems Concepts:
+    - CAP
+    - PACELC
+    - Sharding
+    - Clock
+    - Replication
+    - ACID
+    - Normalization or Denormalization
+    - Consistency vs Eventual consistency
+    - Transaction
+    - Indexing
+  SQL Fundamentals:
+    Basic SQL:
+      - CRUD
+      - JOIN
+      - GROUP BY
+    Advanced SQL:
+      - CTEs
+      - PARTITION OVER
+      - WINDOWING
+      - Materialized View
+  Databases:
+    Relational:
+      - Amazon RDS
+      - Amazon Aurora
+    NoSQL:
+      Columnar:
+        - Amazon Redshift 
+      Document Based:
+        - Amazon DocumentDB
+      Key-Value:
+        - Amazon DynamoDB
+      Time-series:
+        - Amazon Timestream
+      Vector:
+        - Amazon Kendra
+      Graph:
+        - Amazon Neptune
+      NewSQL:
+        - Amazon Aurora
+  Data Modeling:
+    - Star Schema (Ralph Kimball)
+    - Snowflake
+    - Data Vault
+  Data Management Architecture:
+    - Relational Data Warehouse
+    - Data Lake
+    - Modern Data Warehouse
+    - Data Fabric
+    - Data Lakehouse
+    - Data Mesh
+    - Data Mart
+  Data Integration:
+    - ETL
+    - ELT
+    - Reverse ETL
+    - CDC:
+        - Data Migration Service
+  Storage:
+    Block Storage:
+      - Elastic Block Storage
+    Object Storage:
+      - Amazon S3
+  File Formats and Serialization:
+    - CSV
+    - JSON
+    - Parquet
+    - Avro
+    - Protocol Buffers
+    - ORC
+    - XML
+  Data Architecture:
+    - Kappa
+    - Lambda
+  Data Processing:
+    Batch:
+      - AWS Glue
+      - AWS Batch
+    Stream:
+      - Amazon Kinesis
+  Pipeline Orchestration:
+    - Amazon Managed Workflows for Apache Airflow (MWAA)
+  Messaging and Streaming Platform:
+    - Amazon SQS
+    - Amazon SNS
+    - Amazon MQ
+    - Amazon Kinesis
+  Data Governance:
+    - Data Availability
+    - Data Quality:
+        - AWS Glue
+    - Data Security:
+      - AWS KMS
+      - AWS Secrets Manager
+    - Data Lineage:
+      - AWS Glue Data Catalog
+    - Data Usability:
+      - AWS Lake Formation
+  Data Visualization:
+    - AWS QuickSight
+  Container Orchestration:
+    - ECS
+    - EKS
+  CICD:
+    - AWS CodePipeline
+    - AWS CodeBuild
+    - AWS CodeDeploy
+  Infrastructure as Code:
+    Configuration Management:
+      - AWS Systems Manager
+    Infrastructure Provisioning:
+      - AWS CloudFormation
+  Observability:
+    Logging:
+      - AWS CloudWatch Logs
+      - Amazon CloudWatch
+    Monitoring:
+      - Amazon CloudWatch
+    Tracing:
+      - AWS X-Ray
