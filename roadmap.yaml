@@ -204,6 +204,8 @@ Data Engineering:
     - Kubernetes
     - Docker Swarm
     - Apache Mesos
+    - Amazon Elastic Container Service (ECS)
+    - Google Cloud Run
   CICD:
     - Gitlab CI
     - Github Actions
