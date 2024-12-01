@@ -30,10 +30,12 @@ It's not an end; this roadmap is a living document. If you have suggestions, wan
   - [Table of Contents](#table-of-contents)
   - [Data Engineering Roadmap](#data-engineering-roadmap)
   - [Roadmap Guide](#roadmap-guide)
+  - [DataBurst Wiki](#databurst-wiki)
   - [DataBurst Team (Alphabetical Order)](#databurst-team-alphabetical-order)
   - [Contributors](#contributors)
   - [Contributing](#contributing)
   - [License](#license)
+  - [Star-history](#star-history)
 
 ## Data Engineering Roadmap
 
@@ -42,6 +44,22 @@ It's not an end; this roadmap is a living document. If you have suggestions, wan
 ## Roadmap Guide
 
 For a detailed guide on how to navigate and utilize the Data Engineering Roadmap, please refer to our [Roadmap Guide](ROADMAP_GUIDE.md).
+
+## DataBurst Wiki
+
+The [DataBurst Wiki](https://wiki.databurst.tech/) is a key resource designed to complement the **Data Engineering Roadmap**. It provides a brief overview of each topic covered in the roadmap and introduces free resources to help you dive deeper into each subject.
+
+The **DataBurst Wiki** serves as a high-level introduction to various key areas in data engineering, and for each topic, we also provide a curated list of **free resources** to help you dive deeper. These resources may include:
+
+- Relevant articles and books
+- Tutorial links
+- Online courses and documentation
+
+This wiki is continuously updated and improved, and we encourage community contributions to ensure it stays relevant and useful for learners at all levels.
+
+To contribute or explore the wiki further, visit the [GitHub Wiki Repository](https://github.com/data-burst/data-engineering-wiki).
+
+We hope you find it helpful in your data engineering journey!
 
 ## DataBurst Team (Alphabetical Order)
 
