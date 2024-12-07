@@ -1,4 +1,31 @@
 Cloud Data Engineering:
+  Cloud Infrastructure:
+    - Compute:
+        - AWS EC2
+        - Azure Virtual Machines
+        - GCP Compute Engine
+    - Serverless Compute:
+        - AWS Lambda
+        - Azure Functions
+        - Google Cloud Functions
+    - Containers and Orchestration:
+        - AWS ECS
+        - AWS EKS
+        - Azure Kubernetes Service
+        - GCP Kubernetes Engine
+  Security and Compliance:
+    - Identity and Access Management:
+        - AWS IAM
+        - Azure Active Directory
+        - GCP Identity and Access Management
+    - Security:
+        - AWS Shield
+        - Azure Security Center
+        - GCP Security Command Center
+    - Compliance:
+        - AWS Config
+        - Azure Policy
+        - GCP Compliance
   Programming Language:
     - Python
     - Java
@@ -10,15 +37,34 @@ Cloud Data Engineering:
     - Windows
     - Other UNIX distributions
   Networking:
-    Protocols:
-      - HTTP/HTTPS
-      - TCP/IP
-      - UDP
-      - SSH
-      - DNS
-    Concepts:    
-      - VPN
-      - Firewalls
+    - VPN:
+        - AWS VPN
+        - Azure VPN Gateway
+        - GCP Cloud VPN
+    - Firewalls:
+        - AWS Security Groups
+        - Azure Network Security Groups
+        - GCP VPC Firewall Rules
+    - DNS:
+        - Amazon Route 53
+        - Azure DNS
+        - Google Cloud DNS
+    - Load Balancing:
+        - AWS ELB
+        - Azure Load Balancer
+        - GCP Cloud Load Balancing
+    - VPC:
+        - AWS VPC
+        - Azure Virtual Network
+        - GCP VPC
+    - Private Connectivity:
+        - AWS Direct Connect
+        - Azure ExpressRoute
+        - GCP Cloud Interconnect
+    - Peering and Transit Gateway:
+        - AWS Transit Gateway
+        - Azure Virtual WAN
+        - GCP Cloud Interconnect
   General Software Engineering skills:
     - Data Structures and Algorithms
     - Basic Authentication and Authorization: |
@@ -29,7 +75,10 @@ Cloud Data Engineering:
           GraphQL
           REST
           gRPC 
-    - Caching
+    - Caching: |
+        Amazon ElastiCache
+        Azure Cache for Redis
+        Google Cloud Memorystore
   Web Frameworks and API Development:
     Python:
       - Flask
@@ -80,21 +129,37 @@ Cloud Data Engineering:
     Relational:
       - Amazon RDS
       - Amazon Aurora
+      - Azure SQL Database
+      - Google Cloud SQL
     NoSQL:
       Columnar:
-        - Amazon Redshift 
+        - Amazon Redshift
+        - Azure Synapse Analytics
+        - Google BigQuery
       Document Based:
         - Amazon DocumentDB
+        - Azure Cosmos DB
+        - Google Firestore
       Key-Value:
         - Amazon DynamoDB
+        - Azure Cosmos DB (Key-Value API)
+        - Google Cloud Datastore
       Time-series:
         - Amazon Timestream
+        - Azure Time Series Insights
+        - Google Cloud Bigtable
       Vector:
         - Amazon Kendra
+        - Azure Cognitive Search
+        - Google Cloud AI Search
       Graph:
         - Amazon Neptune
+        - Azure Cosmos DB (Gremlin API)
+        - Google Cloud Datastore (Graph)
       NewSQL:
         - Amazon Aurora
+        - Azure Cosmos DB (SQL API)
+        - Google Spanner
   Data Modeling:
     - Star Schema (Ralph Kimball)
     - Snowflake
@@ -118,6 +183,8 @@ Cloud Data Engineering:
       - Elastic Block Storage
     Object Storage:
       - Amazon S3
+      - Google Cloud Storage
+      - MinIO
   File Formats and Serialization:
     - CSV
     - JSON
@@ -135,6 +202,7 @@ Cloud Data Engineering:
       - AWS Batch
     Stream:
       - Amazon Kinesis
+      - Google Cloud Pub/Sub
   Pipeline Orchestration:
     - Amazon Managed Workflows for Apache Airflow (MWAA)
   Messaging and Streaming Platform:
@@ -175,3 +243,19 @@ Cloud Data Engineering:
       - Amazon CloudWatch
     Tracing:
       - AWS X-Ray
+  Backup and Disaster Recovery:
+    - AWS Backup
+    - Azure Backup
+    - GCP Cloud Storage Nearline
+  Cost Management and Optimization:
+    - AWS Cost Explorer
+    - Azure Cost Management
+    - GCP Cost Management
+  Hybrid and Multi-cloud Solutions:
+    - AWS Outposts
+    - Azure Stack
+    - Google Anthos
+  Machine Learning and AI:
+    - AWS SageMaker
+    - Azure Machine Learning
+    - Google AI Platform
