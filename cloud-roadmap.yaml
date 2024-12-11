@@ -197,9 +197,12 @@ Cloud Data Engineering:
     Batch:
       - AWS Glue
       - AWS Batch
+      - Google Cloud Batch
+      - Azure Batch
     Stream:
       - Amazon Kinesis
       - Google Cloud Pub/Sub
+      - Azure Event Hubs
   Pipeline Orchestration:
     - Amazon Managed Workflows for Apache Airflow (MWAA)
   Messaging and Streaming Platform:
