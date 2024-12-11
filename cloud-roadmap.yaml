@@ -235,6 +235,8 @@ Cloud Data Engineering:
       - AWS Systems Manager
     Infrastructure Provisioning:
       - AWS CloudFormation
+      - Pulumi
+      - Hashicorp Terraform
   Observability:
     Logging:
       - Amazon CloudWatch
