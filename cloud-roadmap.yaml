@@ -21,7 +21,6 @@ Cloud Data Engineering:
         - AWS Cognito
         - Azure Active Directory
         - GCP IAM
- 
     - Security:
         - AWS Shield
         - Azure Security Center
@@ -262,3 +261,4 @@ Cloud Data Engineering:
     - AWS SageMaker
     - Azure Machine Learning
     - Google AI Platform
+    - GCP Vertex AI
