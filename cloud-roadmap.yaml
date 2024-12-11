@@ -2,6 +2,7 @@ Cloud Data Engineering:
   Cloud Infrastructure:
     - Compute:
         - AWS EC2
+        - AWS Fargate
         - Azure Virtual Machines
         - GCP Compute Engine
     - Serverless Compute:
