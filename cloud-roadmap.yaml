@@ -235,6 +235,8 @@ Cloud Data Engineering:
     - AWS CodePipeline
     - AWS CodeBuild
     - AWS CodeDeploy
+    - Google Cloud Build
+    - Azure DevOps Pipelines
   Infrastructure as Code:
     Configuration Management:
       - AWS Systems Manager
