@@ -223,6 +223,8 @@ Cloud Data Engineering:
       - Azure Managed HSM
   Data Visualization:
     - AWS QuickSight
+    - Google Looker Studio
+    - Microsoft Power BI in Azure
   Container Orchestration:
     - AWS ECS
     - AWS EKS
