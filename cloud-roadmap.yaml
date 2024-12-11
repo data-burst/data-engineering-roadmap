@@ -237,7 +237,6 @@ Cloud Data Engineering:
       - AWS CloudFormation
   Observability:
     Logging:
-      - AWS CloudWatch Logs
       - Amazon CloudWatch
     Monitoring:
       - Amazon CloudWatch
