@@ -18,8 +18,10 @@ Cloud Data Engineering:
   Security and Compliance:
     - Identity and Access Management:
         - AWS IAM
+        - AWS Cognito
         - Azure Active Directory
-        - GCP Identity and Access Management
+        - GCP IAM
+ 
     - Security:
         - AWS Shield
         - Azure Security Center
