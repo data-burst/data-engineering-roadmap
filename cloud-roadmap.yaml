@@ -9,12 +9,6 @@ Cloud Data Engineering:
         - AWS Fargate
         - Azure Functions
         - Google Cloud Functions
-    - Containers and Orchestration:
-        - AWS ECS
-        - AWS EKS
-        - Azure Kubernetes Service
-        - GCP Kubernetes Engine
-        - GCP Cloud Run
   Security and Compliance:
     - Identity and Access Management:
         - AWS IAM
@@ -227,8 +221,11 @@ Cloud Data Engineering:
   Data Visualization:
     - AWS QuickSight
   Container Orchestration:
-    - ECS
-    - EKS
+    - AWS ECS
+    - AWS EKS
+    - Azure Kubernetes Service
+    - GCP Kubernetes Engine
+    - GCP Cloud Run
   CICD:
     - AWS CodePipeline
     - AWS CodeBuild
