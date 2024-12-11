@@ -233,6 +233,7 @@ Cloud Data Engineering:
   Infrastructure as Code:
     Configuration Management:
       - AWS Systems Manager
+      - Ansible
     Infrastructure Provisioning:
       - AWS CloudFormation
       - Pulumi
