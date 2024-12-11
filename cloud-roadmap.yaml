@@ -8,7 +8,7 @@ Cloud Data Engineering:
         - AWS Lambda
         - AWS Fargate
         - Azure Functions
-        - Google Cloud Functions
+        - GCP Cloud Functions
   Security and Compliance:
     - Identity and Access Management:
         - AWS IAM
@@ -45,7 +45,7 @@ Cloud Data Engineering:
     - DNS:
         - Amazon Route 53
         - Azure DNS
-        - Google Cloud DNS
+        - GCP Cloud DNS
     - Load Balancing:
         - AWS ELB
         - Azure Load Balancer
@@ -75,7 +75,7 @@ Cloud Data Engineering:
     - Caching: |
         Amazon ElastiCache
         Azure Cache for Redis
-        Google Cloud Memorystore
+        GCP Cloud Memorystore
   Web Frameworks and API Development:
     Python:
       - Flask
@@ -127,36 +127,36 @@ Cloud Data Engineering:
       - Amazon RDS
       - Amazon Aurora
       - Azure SQL Database
-      - Google Cloud SQL
+      - GCP Cloud SQL
     NoSQL:
       Columnar:
         - Amazon Redshift
         - Azure Synapse Analytics
-        - Google BigQuery
+        - GCP BigQuery
       Document Based:
         - Amazon DocumentDB
         - Azure Cosmos DB
-        - Google Firestore
+        - GCP Firestore
       Key-Value:
         - Amazon DynamoDB
         - Azure Cosmos DB (Key-Value API)
-        - Google Cloud Datastore
+        - GCP Cloud Datastore
       Time-series:
         - Amazon Timestream
         - Azure Time Series Insights
-        - Google Cloud Bigtable
+        - GCP Cloud Bigtable
       Vector:
         - Amazon Kendra
         - Azure Cognitive Search
-        - Google Cloud AI Search
+        - GCP Cloud AI Search
       Graph:
         - Amazon Neptune
         - Azure Cosmos DB (Gremlin API)
-        - Google Cloud Datastore (Graph)
+        - GCP Cloud Datastore (Graph)
       NewSQL:
         - Amazon Aurora
         - Azure Cosmos DB (SQL API)
-        - Google Spanner
+        - GCP Spanner
   Data Modeling:
     - Star Schema (Ralph Kimball)
     - Snowflake
@@ -180,7 +180,7 @@ Cloud Data Engineering:
       - Elastic Block Storage
     Object Storage:
       - Amazon S3
-      - Google Cloud Storage
+      - GCP Cloud Storage
       - MinIO
   File Formats and Serialization:
     - CSV
@@ -197,33 +197,33 @@ Cloud Data Engineering:
     Batch:
       - AWS Glue
       - AWS Batch
-      - Google Cloud Batch
+      - GCP Cloud Batch
       - Azure Batch
     Stream:
       - Amazon Kinesis
-      - Google Cloud Pub/Sub
+      - GCP Cloud Pub/Sub
       - Azure Event Hubs
   Pipeline Orchestration:
     - Amazon Managed Workflows for Apache Airflow (MWAA)
-    - Google Cloud Composer (Managed Apache Airflow)
+    - GCP Cloud Composer (Managed Apache Airflow)
     - Azure Data Factory (Data Pipelines & Orchestration)
   Data Governance:
     - Data Availability
     - Data Usability
     - Data Quality & Lineage:
       - AWS Glue Data Catalog
-      - Google Data Catalog
+      - GCP Data Catalog
       - Azure Purview
     - Data Security:
       - AWS KMS
       - AWS Secrets Manager
-      - Google Cloud KMS
-      - Google Cloud Secrets Manager
+      - GCP Cloud KMS
+      - GCP Cloud Secrets Manager
       - Azure Key Vault
       - Azure Managed HSM
   Data Visualization:
     - AWS QuickSight
-    - Google Looker Studio
+    - GCP Looker Studio
     - Microsoft Power BI in Azure
   Container Orchestration:
     - AWS ECS
@@ -235,23 +235,30 @@ Cloud Data Engineering:
     - AWS CodePipeline
     - AWS CodeBuild
     - AWS CodeDeploy
-    - Google Cloud Build
+    - GCP Cloud Build
     - Azure DevOps Pipelines
   Infrastructure as Code:
-    Configuration Management:
-      - AWS Systems Manager
-      - Ansible
-    Infrastructure Provisioning:
-      - AWS CloudFormation
       - Pulumi
+      - Ansible
       - Hashicorp Terraform
+      - AWS Systems Manager
+      - AWS CloudFormation
+      - GCP Cloud Deployment Manager
+      - Azure Automation
   Observability:
     Logging:
       - Amazon CloudWatch
+      - GCP Cloud Logging
+      - Azure Monitor
     Monitoring:
       - Amazon CloudWatch
+      - GCP Cloud Monitoring
+      - Azure Monitor
     Tracing:
       - AWS X-Ray
+      - GCP Cloud Trace
+      - Azure Monitor
+      - Azure Application Insights
   Backup and Disaster Recovery:
     - AWS Backup
     - Azure Backup
@@ -263,9 +270,9 @@ Cloud Data Engineering:
   Hybrid and Multi-cloud Solutions:
     - AWS Outposts
     - Azure Stack
-    - Google Anthos
+    - GCP Anthos
   Machine Learning and AI:
     - AWS SageMaker
     - Azure Machine Learning
-    - Google AI Platform
+    - GCP AI Platform
     - GCP Vertex AI
