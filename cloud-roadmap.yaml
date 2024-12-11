@@ -205,11 +205,15 @@ Cloud Data Engineering:
       - Azure Event Hubs
   Pipeline Orchestration:
     - Amazon Managed Workflows for Apache Airflow (MWAA)
+    - Google Cloud Composer (Managed Apache Airflow)
+    - Azure Data Factory (Data Pipelines & Orchestration)
   Messaging and Streaming Platform:
     - Amazon SQS
     - Amazon SNS
     - Amazon MQ
     - Amazon Kinesis
+    - Google Cloud Pub/Sub
+    - Azure Event Hubs
   Data Governance:
     - Data Availability
     - Data Quality:
