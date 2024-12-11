@@ -209,6 +209,7 @@ Cloud Data Engineering:
     - Azure Data Factory (Data Pipelines & Orchestration)
   Data Governance:
     - Data Availability
+    - Data Usability
     - Data Quality & Lineage:
       - AWS Glue Data Catalog
       - Google Data Catalog
@@ -216,8 +217,10 @@ Cloud Data Engineering:
     - Data Security:
       - AWS KMS
       - AWS Secrets Manager
-    - Data Usability:
-      - AWS Lake Formation
+      - Google Cloud KMS
+      - Google Cloud Secrets Manager
+      - Azure Key Vault
+      - Azure Managed HSM
   Data Visualization:
     - AWS QuickSight
   Container Orchestration:
