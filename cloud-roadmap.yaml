@@ -14,6 +14,7 @@ Cloud Data Engineering:
         - AWS EKS
         - Azure Kubernetes Service
         - GCP Kubernetes Engine
+        - GCP Cloud Run
   Security and Compliance:
     - Identity and Access Management:
         - AWS IAM
