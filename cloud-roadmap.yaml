@@ -1,0 +1,278 @@
+Cloud Data Engineering:
+  Compute:
+    - AWS EC2
+    - Azure Virtual Machines
+    - GCP Compute Engine
+  Serverless Compute:
+    - AWS Lambda
+    - AWS Fargate
+    - Azure Functions
+    - GCP Cloud Functions
+  Identity and Access Management:
+    - AWS IAM
+    - AWS Cognito
+    - Azure Active Directory
+    - GCP IAM
+  Security:
+    - AWS Shield
+    - Azure Security Center
+    - GCP Security Command Center
+  Compliance:
+    - AWS Config
+    - Azure Policy
+    - GCP Compliance
+  Programming Language:
+    - Python
+    - Java
+    - Scala
+    - Go
+    - Rust
+  Operating System:
+    - Linux
+    - Windows
+    - Other UNIX distributions
+  Networking:
+    - VPN:
+        - AWS VPN
+        - Azure VPN Gateway
+        - GCP Cloud VPN
+    - Firewalls:
+        - AWS Security Groups
+        - Azure Network Security Groups
+        - GCP VPC Firewall Rules
+    - DNS:
+        - Amazon Route 53
+        - Azure DNS
+        - GCP Cloud DNS
+    - Load Balancing:
+        - AWS ELB
+        - Azure Load Balancer
+        - GCP Cloud Load Balancing
+    - VPC:
+        - AWS VPC
+        - Azure Virtual Network
+        - GCP VPC
+    - Private Connectivity:
+        - AWS Direct Connect
+        - Azure ExpressRoute
+        - GCP Cloud Interconnect
+    - Peering and Transit Gateway:
+        - AWS Transit Gateway
+        - Azure Virtual WAN
+        - GCP Cloud Interconnect
+  General Software Engineering skills:
+    - Data Structures and Algorithms
+    - Basic Authentication and Authorization: |
+        OAuth
+        JWT
+        etc.
+    - Learn about APIs: |
+        GraphQL
+        REST
+        gRPC
+    - Caching: |
+        Amazon ElastiCache
+        Azure Cache for Redis
+        GCP Cloud Memorystore
+  Web Frameworks and API Development:
+    Python:
+      - Flask
+      - Django
+      - FastAPI
+    Rust:
+      - Rocket
+    Go:
+      - Fiber
+      - Gin
+    Java:
+      - SpringBoot
+  Testing:
+    - Unit Testing
+    - Integration Testing
+    - Functional Testing
+    - Smoke Testing
+    - Load Testing
+    - A/B Testing
+  Version Control System:
+    - Git
+  Version Control System Hosting:
+    - Gitlab
+    - Github
+    - Bitbucket
+  Distributed Systems Concepts:
+    - CAP
+    - PACELC
+    - Sharding
+    - Clock
+    - Replication
+    - ACID
+    - Normalization or Denormalization
+    - Consistency vs Eventual consistency
+    - Transaction
+    - Indexing
+  SQL Fundamentals:
+    Basic SQL:
+      - CRUD
+      - JOIN
+      - GROUP BY
+    Advanced SQL:
+      - CTEs
+      - PARTITION OVER
+      - WINDOWING
+      - Materialized View
+  Databases:
+    Relational:
+      - Amazon RDS
+      - Amazon Aurora
+      - Azure SQL Database
+      - GCP Cloud SQL
+    NoSQL:
+      Columnar:
+        - Amazon Redshift
+        - Azure Synapse Analytics
+        - GCP BigQuery
+      Document Based:
+        - Amazon DocumentDB
+        - Azure Cosmos DB
+        - GCP Firestore
+      Key-Value:
+        - Amazon DynamoDB
+        - Azure Cosmos DB (Key-Value API)
+        - GCP Cloud Datastore
+      Time-series:
+        - Amazon Timestream
+        - Azure Time Series Insights
+        - GCP Cloud Bigtable
+      Vector:
+        - Amazon Kendra
+        - Azure Cognitive Search
+        - GCP Cloud AI Search
+      Graph:
+        - Amazon Neptune
+        - Azure Cosmos DB (Gremlin API)
+        - GCP Cloud Datastore (Graph)
+      NewSQL:
+        - Amazon Aurora
+        - Azure Cosmos DB (SQL API)
+        - GCP Spanner
+  Data Modeling:
+    - Star Schema (Ralph Kimball)
+    - Snowflake
+    - Data Vault
+  Data Management Architecture:
+    - Relational Data Warehouse
+    - Data Lake
+    - Modern Data Warehouse
+    - Data Fabric
+    - Data Lakehouse
+    - Data Mesh
+    - Data Mart
+  Data Integration:
+    - ETL
+    - ELT
+    - Reverse ETL
+    - CDC:
+        - Data Migration Service
+  Storage:
+    Block Storage:
+      - Elastic Block Storage
+    Object Storage:
+      - Amazon S3
+      - GCP Cloud Storage
+      - MinIO
+  File Formats and Serialization:
+    - CSV
+    - JSON
+    - Parquet
+    - Avro
+    - Protocol Buffers
+    - ORC
+    - XML
+  Query Engine:
+    - AWS Athena
+  Data Architecture:
+    - Kappa
+    - Lambda
+  Data Processing:
+    Batch:
+      - AWS Glue
+      - AWS Batch
+      - GCP Cloud Batch
+      - Azure Batch
+    Stream:
+      - Amazon Kinesis
+      - GCP Cloud Pub/Sub
+      - Azure Event Hubs
+  Pipeline Orchestration:
+    - Amazon Managed Workflows for Apache Airflow (MWAA)
+    - GCP Cloud Composer (Managed Apache Airflow)
+    - Azure Data Factory (Data Pipelines & Orchestration)
+  Data Governance:
+    - Data Availability
+    - Data Usability
+    - Data Quality & Lineage:
+        - AWS Glue Data Catalog
+        - GCP Data Catalog
+        - Azure Purview
+    - Data Security:
+        - AWS KMS
+        - AWS Secrets Manager
+        - GCP Cloud KMS
+        - GCP Cloud Secrets Manager
+        - Azure Key Vault
+        - Azure Managed HSM
+  Data Visualization:
+    - AWS QuickSight
+    - GCP Looker Studio
+    - Microsoft Power BI in Azure
+  Container Orchestration:
+    - AWS ECS
+    - AWS EKS
+    - Azure Kubernetes Service
+    - GCP Kubernetes Engine
+    - GCP Cloud Run
+  CICD:
+    - AWS CodePipeline
+    - AWS CodeBuild
+    - AWS CodeDeploy
+    - GCP Cloud Build
+    - Azure DevOps Pipelines
+  Infrastructure as Code:
+    - Pulumi
+    - Ansible
+    - Hashicorp Terraform
+    - AWS Systems Manager
+    - AWS CloudFormation
+    - GCP Cloud Deployment Manager
+    - Azure Automation
+  Observability:
+    Logging:
+      - Amazon CloudWatch
+      - GCP Cloud Logging
+      - Azure Monitor
+    Monitoring:
+      - Amazon CloudWatch
+      - GCP Cloud Monitoring
+      - Azure Monitor
+    Tracing:
+      - AWS X-Ray
+      - GCP Cloud Trace
+      - Azure Monitor
+      - Azure Application Insights
+  Backup and Disaster Recovery:
+    - AWS Backup
+    - Azure Backup
+    - GCP Cloud Storage Nearline
+  Cost Management and Optimization:
+    - AWS Cost Explorer
+    - Azure Cost Management
+    - GCP Cost Management
+  Hybrid and Multi-cloud Solutions:
+    - AWS Outposts
+    - Azure Stack
+    - GCP Anthos
+  Machine Learning and AI:
+    - AWS SageMaker
+    - Azure Machine Learning
+    - GCP AI Platform
+    - GCP Vertex AI
