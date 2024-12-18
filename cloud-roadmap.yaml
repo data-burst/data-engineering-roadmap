@@ -192,6 +192,8 @@ Cloud Data Engineering:
     - Protocol Buffers
     - ORC
     - XML
+  Query Engine:
+    - AWS Athena
   Data Architecture:
     - Kappa
     - Lambda
