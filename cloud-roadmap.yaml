@@ -144,8 +144,6 @@ Cloud Data Engineering:
         - Azure Time Series Insights
         - GCP Cloud Bigtable
       Vector:
-        - Qdrant
-        - Pinecone
         - Amazon Kendra
         - Azure Cognitive Search
         - GCP Cloud AI Search
