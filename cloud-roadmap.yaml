@@ -1,28 +1,26 @@
 Cloud Data Engineering:
-  Cloud Infrastructure:
-    - Compute:
-        - AWS EC2
-        - Azure Virtual Machines
-        - GCP Compute Engine
-    - Serverless Compute:
-        - AWS Lambda
-        - AWS Fargate
-        - Azure Functions
-        - GCP Cloud Functions
-  Security and Compliance:
-    - Identity and Access Management:
-        - AWS IAM
-        - AWS Cognito
-        - Azure Active Directory
-        - GCP IAM
-    - Security:
-        - AWS Shield
-        - Azure Security Center
-        - GCP Security Command Center
-    - Compliance:
-        - AWS Config
-        - Azure Policy
-        - GCP Compliance
+  Compute:
+    - AWS EC2
+    - Azure Virtual Machines
+    - GCP Compute Engine
+  Serverless Compute:
+    - AWS Lambda
+    - AWS Fargate
+    - Azure Functions
+    - GCP Cloud Functions
+  Identity and Access Management:
+    - AWS IAM
+    - AWS Cognito
+    - Azure Active Directory
+    - GCP IAM
+  Security:
+    - AWS Shield
+    - Azure Security Center
+    - GCP Security Command Center
+  Compliance:
+    - AWS Config
+    - Azure Policy
+    - GCP Compliance
   Programming Language:
     - Python
     - Java
@@ -69,9 +67,9 @@ Cloud Data Engineering:
         JWT
         etc.
     - Learn about APIs: |
-          GraphQL
-          REST
-          gRPC 
+        GraphQL
+        REST
+        gRPC
     - Caching: |
         Amazon ElastiCache
         Azure Cache for Redis
@@ -215,16 +213,16 @@ Cloud Data Engineering:
     - Data Availability
     - Data Usability
     - Data Quality & Lineage:
-      - AWS Glue Data Catalog
-      - GCP Data Catalog
-      - Azure Purview
+        - AWS Glue Data Catalog
+        - GCP Data Catalog
+        - Azure Purview
     - Data Security:
-      - AWS KMS
-      - AWS Secrets Manager
-      - GCP Cloud KMS
-      - GCP Cloud Secrets Manager
-      - Azure Key Vault
-      - Azure Managed HSM
+        - AWS KMS
+        - AWS Secrets Manager
+        - GCP Cloud KMS
+        - GCP Cloud Secrets Manager
+        - Azure Key Vault
+        - Azure Managed HSM
   Data Visualization:
     - AWS QuickSight
     - GCP Looker Studio
@@ -242,13 +240,13 @@ Cloud Data Engineering:
     - GCP Cloud Build
     - Azure DevOps Pipelines
   Infrastructure as Code:
-      - Pulumi
-      - Ansible
-      - Hashicorp Terraform
-      - AWS Systems Manager
-      - AWS CloudFormation
-      - GCP Cloud Deployment Manager
-      - Azure Automation
+    - Pulumi
+    - Ansible
+    - Hashicorp Terraform
+    - AWS Systems Manager
+    - AWS CloudFormation
+    - GCP Cloud Deployment Manager
+    - Azure Automation
   Observability:
     Logging:
       - Amazon CloudWatch
