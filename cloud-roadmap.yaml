@@ -172,7 +172,7 @@ Cloud Data Engineering:
     - ELT
     - Reverse ETL
     - CDC:
-        - Data Migration Service
+        - Database Migration Service
   Storage:
     Block Storage:
       - Elastic Block Storage
