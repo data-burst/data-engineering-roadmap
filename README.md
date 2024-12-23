@@ -9,14 +9,13 @@
 </a>
 </p>
 
-
 <img  align="left" src="https://raw.githubusercontent.com/data-burst/databurst-public-assets/main/databurst/logo.jpg" width="250" alt="data engineering roadmap"/>
 
-We are a group of dedicated data engineers at DataBurst, are excited to share a comprehensive roadmap tailored for data engineering professionals at all levels—from those just starting out to the most seasoned experts.
+We are a group of dedicated data engineers at DataBurst, excited to share comprehensive roadmaps tailored for data engineering professionals at all levels—from those just starting out to the most seasoned experts.
 
-Whether you're a junior engineer seeking direction or a senior professional aiming to stay ahead of the curve, this roadmap offers valuable guidance and industry best practices.
+Whether you're a junior engineer seeking direction or a senior professional aiming to stay ahead of the curve, these roadmaps offer valuable guidance and industry best practices.
 
-It's not an end; this roadmap is a living document. If you have suggestions, want to make changes, or add new insights, we welcome your contributions. Join our collaborative effort to refine and enhance this roadmap for the data engineering community.
+It's not an end; these roadmaps are living documents. If you have suggestions, want to make changes, or add new insights, we welcome your contributions. Join our collaborative effort to refine and enhance these roadmaps for the data engineering community.
 
 ----------------------
 
@@ -29,6 +28,7 @@ It's not an end; this roadmap is a living document. If you have suggestions, wan
 - [DataBurst](#databurst)
   - [Table of Contents](#table-of-contents)
   - [Data Engineering Roadmap](#data-engineering-roadmap)
+  - [Cloud Data Engineering Roadmap](#cloud-data-engineering-roadmap)
   - [Roadmap Guide](#roadmap-guide)
   - [DataBurst Wiki](#databurst-wiki)
   - [DataBurst Team (Alphabetical Order)](#databurst-team-alphabetical-order)
@@ -41,13 +41,23 @@ It's not an end; this roadmap is a living document. If you have suggestions, wan
 
 ![data engineer roadmap](https://raw.githubusercontent.com/data-burst/data-engineering-public-assets/main/data-engineering-roadmap/roadmap.png)
 
+## Cloud Data Engineering Roadmap
+
+We are thrilled to introduce the **Cloud Data Engineering Roadmap**, which builds on the foundation of our existing Data Engineering Roadmap. It follows the same start-to-end structure with a key distinction: whenever a tool is introduced in the traditional roadmap, its cloud-based counterparts focused on `AWS`, `Azure`, and `GCP` are introduced here.
+
+For sure, all tools mentioned in the **Data Engineering Roadmap** can also be utilized in cloud data engineering scenarios. However, to avoid duplication and reduce confusion, we have preferred to focus solely on cloud-based tools in the **Cloud Data Engineering Roadmap**.
+
+This roadmap is designed to cater to data professionals aiming to specialize in cloud data engineering, helping them leverage the latest cloud technologies and practices.
+
+![cloud data engineer roadmap](https://raw.githubusercontent.com/data-burst/data-engineering-public-assets/main/data-engineering-roadmap/cloud-roadmap.png)
+
 ## Roadmap Guide
 
-For a detailed guide on how to navigate and utilize the Data Engineering Roadmap, please refer to our [Roadmap Guide](ROADMAP_GUIDE.md).
+For a detailed guide on how to navigate and utilize the Roadmaps, please refer to our [Roadmap Guide](ROADMAP_GUIDE.md).
 
 ## DataBurst Wiki
 
-The [DataBurst Wiki](https://wiki.databurst.tech/) is a key resource designed to complement the **Data Engineering Roadmap**. It provides a brief overview of each topic covered in the roadmap and introduces free resources to help you dive deeper into each subject.
+The [DataBurst Wiki](https://wiki.databurst.tech/) is a key resource designed to complement the **Data Engineering Roadmaps**. It provides a brief overview of each topic covered in the roadmaps and introduces free resources to help you dive deeper into each subject.
 
 The **DataBurst Wiki** serves as a high-level introduction to various key areas in data engineering, and for each topic, we also provide a curated list of **free resources** to help you dive deeper. These resources may include:
 
@@ -96,25 +106,19 @@ We hope you find it helpful in your data engineering journey!
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 And more! We are expecting more passionate contributors and data lovers to join us...
 
 ## Contributing
 
-We welcome contributions to our data engineering roadmap! If you'd like to get involved, here's how you can help:
+We welcome contributions to our data engineering roadmaps! If you'd like to get involved, here's how you can help:
 
 - Fork the [data-burst/data-engineering-roadmap](https://github.com/data-burst/data-engineering-roadmap) repository
-- Modify the `roadmap.yaml` file based on your suggestions and ideas for improving the roadmap
+- Modify the `roadmap.yaml` file based on your suggestions and ideas for improving the **Data Engineering Roadmap**
+- Modify the `cloud-roadmap.yaml` file for suggestions and improvements related to the **Cloud Data Engineering Roadmap**
 - Once you've made your changes, commit them and submit a pull request
 
-For more details on our contribution guidelines, please check out the [CONTIRIBUTION.md](CONTRIBUTING.md) file in the repository. We're excited to collaborate with the community and make this roadmap even better. Looking forward to your contributions!
+For more details on our contribution guidelines, please check out the [CONTIRIBUTION.md](CONTRIBUTING.md) file in the repository. We're excited to collaborate with the community and make these roadmaps even better. Looking forward to your contributions!
 
 ## License
 
